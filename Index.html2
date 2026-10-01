@@ -1,1 +1,27 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digital Media</title>
+  </head>
+<body>
+  <h1>Degital Media</h1>
+    <img src="IMG_0877.jpeg"
+        alt="My Image">
+    <video controls>
+        <source src="gemini_generated_video_07E44F0C.mp4"
+            type="video/mp4">
+            </video> 
+<table border=1>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jing(</td>
+    <td>21</td>
+  </tr>
+</table>
+   <a href="sendmail2.html">Test sending our message to our email</a> <br> 
+    <a href="foodorder2.html"></a>
+</body>
+</html>
